@@ -5,19 +5,21 @@
 
   
 ## Compétences
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        <ul>
-            <li>Langages : JavaScript, PHP, JAVA</li>
-            <li>Frameworks : ReactJs, NextJs, Vue, Symfony, ApiPlatform, Express.js</li>
-            <li>Base de données : MySQL, MongoDB</li>
-            <li>Outils : Git, Docker, Postman</li>
-        </ul>
-    </div>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustineRgs&layout=compact" alt="Langages les plus utilisés">
-    </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>Langages : JavaScript, PHP, JAVA</li>
+        <li>Frameworks : ReactJs, NextJs, Vue, Symfony, ApiPlatform, Express.js</li>
+        <li>Base de données : MySQL, MongoDB</li>
+        <li>Outils : Git, Docker, Postman</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustineRgs&layout=compact" alt="Langages les plus utilisés">
+    </td>
+  </tr>
+</table>
 
 ## Développeuse full stack, je peux intervenir sur plusieurs type de projets :
 
