@@ -21,6 +21,11 @@
   </tr>
 </table>
 
+## Contactez-moi !
+
+- **LinkedIn:** [Justine Ragues](https://www.linkedin.com/in/justine-ragues/)
+- **Email:** [justineragues@gmail.com](mailto:justineragues@gmail.com)
+
 ## Développeuse full stack, je peux intervenir sur plusieurs type de projets :
 
 ### 🌐 Création et refonte de site internet :
