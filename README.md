@@ -2,8 +2,15 @@
 
 * 💻 Développeuse Web chez WyTest (Application de dépistage auditif et visuel)
 * 👩‍💻 Entrepreneuse ✨UONIT Solutions Digitales✨ : Création de site web & Support de communication visuelle
-* 
+  
+## Compétences
+* Langages : JavaScript, PHP, JAVA
+* Frameworks : ReactJs, NextJs, Vue, Symfony, ApiPlatform, Express.js
+* Base de données : MySQL, MongoDB
+* Outils : Git, Docker, Postman
+
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=JustineRgs&layout=compact)
+
 
 ## Développeuse full stack, je peux intervenir sur plusieurs type de projets :
 
